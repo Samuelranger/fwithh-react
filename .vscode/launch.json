@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "http://MONGO_SRV",
+            "request": "launch",
+            "url": "http://MONGO_SRV"
+        }
+    ]
+}
