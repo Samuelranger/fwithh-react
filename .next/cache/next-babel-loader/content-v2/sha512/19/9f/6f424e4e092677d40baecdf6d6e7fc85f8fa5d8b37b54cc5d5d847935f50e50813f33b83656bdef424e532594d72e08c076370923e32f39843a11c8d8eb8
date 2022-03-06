@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nvar Custom404 = function Custom404() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    className: \"error-area\",\n    children: /*#__PURE__*/_jsx(\"p\", {\n      children: \"404 - Page Not Found\"\n    })\n  });\n};\n\nexport default Custom404;","map":null,"metadata":{},"sourceType":"module"}
