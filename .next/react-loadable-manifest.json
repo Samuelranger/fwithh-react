@@ -1,8 +1,16 @@
 {
-  "./dev/noop": [
-    {
-      "id": "./node_modules/next/dist/client/dev/noop.js",
-      "file": "static/chunks/0.js"
-    }
-  ]
+  "..\\components\\Dashboard\\Charts\\MonthlyRevenue.js -> react-apexcharts": {
+    "id": 47229,
+    "files": [
+      "static/chunks/6c44d60f.6717a1e7900cf465c5ba.js",
+      "static/chunks/229.4ab86a43c3f24e8e1a57.js"
+    ]
+  },
+  "..\\components\\Dashboard\\Charts\\ProductTrendsByMonth.js -> react-apexcharts": {
+    "id": 47229,
+    "files": [
+      "static/chunks/6c44d60f.6717a1e7900cf465c5ba.js",
+      "static/chunks/229.4ab86a43c3f24e8e1a57.js"
+    ]
+  }
 }
