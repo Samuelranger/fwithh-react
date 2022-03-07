@@ -41,10 +41,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samuelranger/fwithh.git"
+    "url": "git+https://github.com/Samuelranger/fwithh-react.git"
   },
   "bugs": {
-    "url": "https://github.com/Samuelranger/fwithh/issues"
+    "url": "https://github.com/Samuelranger/fwithh-react/issues"
   },
-  "homepage": "https://github.com/Samuelranger/fwithh#readme"
+  "homepage": "https://github.com/Samuelranger/fwithh-react#readme"
 }
